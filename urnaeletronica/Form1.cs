@@ -90,6 +90,7 @@ namespace urnaeletronica
             pictureBox1.Image = Properties.Resources.branco;
         }
 
+        
         private void button13_Click(object sender, EventArgs e)
         {
             SoundPlayer audio1 = new SoundPlayer(Properties.Resources.confirma_urna);
@@ -105,6 +106,9 @@ namespace urnaeletronica
                 {
                     audio1.Play();
                     bolso += 1;
+                                    
+
+                    
                 }
 
                 else if (textBox2.Text == "1" && textBox3.Text == "3")
@@ -132,7 +136,29 @@ namespace urnaeletronica
                     textBox3.Clear();
                 }
 
-               
+
+                if (bolso > lula && bolso > adelio && bolso > branco)
+                {
+                    Form3 splash = new Form3();
+                    splash.Show();
+                    Visible = false;
+                }
+
+                else if (lula > bolso && lula > adelio && lula > branco)
+                {
+                    Form4 splash = new Form4();
+                    splash.Show();
+                    Visible = false; 
+                }
+
+                else if (adelio > bolso && adelio > lula && adelio > branco)
+                {
+                    Form5 splash = new Form5();
+                    splash.Show();
+                    Visible = false;
+                }
+
+                               
 
 
 
@@ -202,6 +228,12 @@ namespace urnaeletronica
         {
             AddNumero("0");
             audio.Play();
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            Form6 cola = new Form6();
+            cola.ShowDialog();
         }
     }
 }

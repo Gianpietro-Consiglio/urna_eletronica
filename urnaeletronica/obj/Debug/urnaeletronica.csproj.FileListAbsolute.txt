@@ -8,3 +8,13 @@ C:\Users\Gianpietro Consiglio\source\repos\urnaeletronica\urnaeletronica\obj\Deb
 C:\Users\Gianpietro Consiglio\source\repos\urnaeletronica\urnaeletronica\obj\Debug\urnaeletronica.csproj.CoreCompileInputs.cache
 C:\Users\Gianpietro Consiglio\source\repos\urnaeletronica\urnaeletronica\obj\Debug\urnaeletronica.exe
 C:\Users\Gianpietro Consiglio\source\repos\urnaeletronica\urnaeletronica\obj\Debug\urnaeletronica.pdb
+C:\Users\Gianpietro Consiglio\source\repos\urnaeletronica\urnaeletronica\bin\Debug\Interop.WMPLib.dll
+C:\Users\Gianpietro Consiglio\source\repos\urnaeletronica\urnaeletronica\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Gianpietro Consiglio\source\repos\urnaeletronica\urnaeletronica\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gianpietro Consiglio\source\repos\urnaeletronica\urnaeletronica\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Gianpietro Consiglio\source\repos\urnaeletronica\urnaeletronica\obj\Debug\urnaeletronica.csproj.ResolveComReference.cache
+C:\Users\Gianpietro Consiglio\source\repos\urnaeletronica\urnaeletronica\obj\Debug\urnaeletronica.Form2.resources
+C:\Users\Gianpietro Consiglio\source\repos\urnaeletronica\urnaeletronica\obj\Debug\urnaeletronica.Form3.resources
+C:\Users\Gianpietro Consiglio\source\repos\urnaeletronica\urnaeletronica\obj\Debug\urnaeletronica.Form4.resources
+C:\Users\Gianpietro Consiglio\source\repos\urnaeletronica\urnaeletronica\obj\Debug\urnaeletronica.Form5.resources
+C:\Users\Gianpietro Consiglio\source\repos\urnaeletronica\urnaeletronica\obj\Debug\urnaeletronica.Form6.resources
